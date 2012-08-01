@@ -1,4 +1,4 @@
 Redmine base_jquery plugin
 ==========================
 
-I'm tired of rewriting hacks to include jQuery in my plugins on and on, so if you have a running redmine 2.0.x you can use this plugin and depend on it in your own plugins before jQuery replaces Prototype into Redmine's core (which is planned for Redmine 2.1.0, see http://www.redmine.org/issues/11445).
+I'm tired of rewriting hacks to include jQuery in my plugins on and on, so if you have a running redmine 1.x or 2.0.x and want to include jQuery stuff in your own plugins, you can use this base plugin and depend on it in. For releases of Redmine after 2.1.0 (not available for now), jQuery will replace Prototype directly into Redmine's core, so this plugin won't be useful anymore (see http://www.redmine.org/issues/11445).
